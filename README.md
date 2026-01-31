@@ -5,7 +5,7 @@
 # 🚀 HyperOS 3 Pack ⟨Phone Version⟩ - Magisk Module
 
 ![Magisk](https://img.shields.io/badge/Magisk-Module-orange?style=for-the-badge&logo=android)
-![Version](https://img.shields.io/badge/Version-v8.0-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-v9.0-blue?style=for-the-badge)
 
 Ubah tampilan HyperOS 2 kamu menjadi gaya **HyperOS 3** yang lebih modern dan fresh! Modul ini dirancang khusus untuk memberikan pengalaman visual terbaru pada perangkat Xiaomi Pad Anda.
 
@@ -21,7 +21,7 @@ Ubah tampilan HyperOS 2 kamu menjadi gaya **HyperOS 3** yang lebih modern dan fr
 - Berjalan di basis HyperOS 2.
 
 ## 📥 Cara Instalasi
-1. Download file `.zip` versi terbaru dari [sini](https://github.com/yasin3unnity/HyperOS-3-Pack-2/raw/refs/heads/main/HOS3_Pack_8_For_Phone.zip).
+1. Download file `.zip` versi terbaru dari [sini](https://github.com/yasin3unnity/HyperOS-3-Pack-2/raw/refs/heads/main/HOS3_Pack_9_For_Phone.zip).
 2. Buka aplikasi **Magisk**.
 3. Masuk ke tab **Modules** lalu klik **Install from storage**.
 4. Pilih file yang sudah di-download tadi.
