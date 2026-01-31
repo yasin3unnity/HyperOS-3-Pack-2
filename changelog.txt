@@ -1,6 +1,5 @@
-[v7.0 Phone Edition]
-- Rilis perdana HyperOS 3 Pack khusus perangkat Smartphone.
+[v8.0 Phone Edition]
 - Ikon Status Bar yang disesuaikan untuk layar HP (bukan tablet).
-- Tampilan Ikon Settings terbaru ala HyperOS 3.
-- Peningkatan stabilitas sistem UI pada mode portrait.
-- Fitur Auto-Update resmi diaktifkan.
+- Perbaikan bug animasi pada ikon aplikasi.
+- penghapusan animasi pada ikon aplikasi.
+- optimalisasi.
