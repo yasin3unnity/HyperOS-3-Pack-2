@@ -1,5 +1,9 @@
 # 🚀 HyperOS 3 Pack ⟨Phone Version⟩ - Magisk Module
 
+<p align="center">
+  <img src="https://github.com/yasin3unnity/HyperOS-3-Pack-2/edit/main/logo.jpg" width="100%" alt="Banner">
+</p>
+
 ![Magisk](https://img.shields.io/badge/Magisk-Module-orange?style=for-the-badge&logo=android)
 ![Version](https://img.shields.io/badge/Version-v7.0-blue?style=for-the-badge)
 
