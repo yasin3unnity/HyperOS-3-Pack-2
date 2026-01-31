@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yasin3unnity/HyperOS-3-Pack-2/main/logo.jpg" width="90%" alt="Banner">
+  <img src="https://raw.githubusercontent.com/yasin3unnity/HyperOS-3-Pack-2/main/logo.jpg" width="100%" alt="Banner">
 </p>
 
 # 🚀 HyperOS 3 Pack ⟨Phone Version⟩ - Magisk Module
