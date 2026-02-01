@@ -1,3 +1,5 @@
-[v9.0 Phone Edition]
-- penghapusan paket ikon aplikasi. 
-- [untuk saat ini ikon akan terpisah ke Mtz]
+[v10.0 Phone Edition]
+- Penambahan kembali paket ikon HyperOS 3. 
+- New ikon style
+- New, Ikon (my device)
+- New, Ikon (Wi_Fi)
