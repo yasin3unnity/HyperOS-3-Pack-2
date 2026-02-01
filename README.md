@@ -29,9 +29,13 @@ Ubah tampilan HyperOS 2 kamu menjadi gaya **HyperOS 3** yang lebih modern dan fr
 
 ## 📜 Daftar Perubahan (Changelog)
 ### v10.0
-- Rilis perdana fitur Auto-Update via GitHub.
-- Optimalisasi ikon untuk perangkat seluler.
-- Perbaikan bug pada tampilan status bar.
+## 🚀 Apa yang baru?
+- Penambahan kembali paket ikon HyperOS 3.
+- - New ikon style
+- - - Magisk
+- - - HyperCeiler
+- New, Ikon (my device)
+- New, Ikon (Wi_Fi)
 
 ---
 *Dibuat dengan ❤️ oleh [yasin3unnity](https://github.com/yasin3unnity)*
