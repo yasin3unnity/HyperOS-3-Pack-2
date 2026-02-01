@@ -29,7 +29,6 @@ Ubah tampilan HyperOS 2 kamu menjadi gaya **HyperOS 3** yang lebih modern dan fr
 
 ## 📜 Daftar Perubahan (Changelog)
 ### v10.0
-## 🚀 Apa yang baru?
 - Penambahan kembali paket ikon HyperOS 3.
 - - New ikon style
 - - - Magisk
