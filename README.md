@@ -14,6 +14,7 @@ Ubah tampilan HyperOS 2 kamu menjadi gaya **HyperOS 3** yang lebih modern dan fr
 * 🎨 **Redesigned Icons:** Icon pack yang lebih halus dan konsisten.
 * ⚙️ **Settings UI:** Perubahan ikon di dalam menu Setelan (Settings) ke gaya HyperOS 3.
 * 🔄 **Auto-Update Support:** Update langsung lewat aplikasi Magisk tanpa ribet!
+* ✅ **Pemilih via volume:** pilih bagian mana saja yang ingin di pasang Magisk tanpa ribet!
 
 ## 🛠️ Persyaratan
 - Perangkat Xiaomi/Redmi/Poco.
@@ -30,7 +31,7 @@ Ubah tampilan HyperOS 2 kamu menjadi gaya **HyperOS 3** yang lebih modern dan fr
 ## 📜 Daftar Perubahan (Changelog)
 ### v11
 - Penambahan fitur memilih.
-- - New ikon style
+- New ikon style
          - Lr
          - Ps
          - Aerofly global
