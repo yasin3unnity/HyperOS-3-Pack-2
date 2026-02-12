@@ -1,3 +1,39 @@
+[v11 Phone Edition]
+- Penambahan Fitur pemilihan via Volume
+- New ikon style :
+- Lr
+- Ps
+- Aerofly global
+- block_blast
+- Canva
+- discord
+- Free fire
+- duolingo 
+- infinity flight 
+- fv file Explorer 
+- circle to search 
+- threads
+- x plane
+- bussid
+- worldbox
+- Netflix
+- chatgpt
+- pinterest
+- stickman party
+- roblox
+- Grand theaf auto
+- strava
+- clash of clans
+- PUBG
+- termux
+- leveldevil
+- gym workout 
+- celenganku
+- theotown 
+- rfs
+- zarchiver pro
+- Optimalisasi ikon
+
 [v10.0 Phone Edition]
 - Penambahan kembali paket ikon HyperOS 3. 
 - New ikon style
