@@ -5,7 +5,7 @@
 # 🚀 HyperOS 3 Pack ⟨Phone Version⟩ - Magisk Module
 
 ![Magisk](https://img.shields.io/badge/Magisk-Module-orange?style=for-the-badge&logo=android)
-![Version](https://img.shields.io/badge/Version-v11-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-v12-blue?style=for-the-badge)
 
 Ubah tampilan HyperOS 2 kamu menjadi gaya **HyperOS 3** yang lebih modern dan fresh! Modul ini dirancang khusus untuk memberikan pengalaman visual terbaru pada perangkat Xiaomi Anda.
 
@@ -29,41 +29,11 @@ Ubah tampilan HyperOS 2 kamu menjadi gaya **HyperOS 3** yang lebih modern dan fr
 5. Reboot perangkat Anda.
 
 ## 📜 Daftar Perubahan (Changelog)
-### v11
-- Penambahan fitur memilih.
+### v12
+- Penambahan fitur device info
+- new ui in file manager
 - New ikon style
-         - Lr
-         - Ps
-         - Aerofly global
-         - block_blast
-         - Canva
-         - discord
-         - Free fire
-         - duolingo 
-         - infinity flight 
-         - fv file Explorer 
-         - circle to search 
-         - threads
-         - x plane
-         - bussid
-         - worldbox
-         - Netflix
-         - chatgpt
-         - pinterest
-         - stickman party
-         - roblox
-         - Grand theaf auto
-         - strava
-         - clash of clans
-         - PUBG
-         - termux
-         - leveldevil
-         - gym workout 
-         - celenganku
-         - theotown 
-         - rfs
-         - zarchiver pro
-* Optimalisasi ikon
+- Optimalisasi ikon
 
 ---
 *Dibuat dengan ❤️ oleh [yasin3unnity](https://github.com/yasin3unnity)*
