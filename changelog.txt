@@ -1,3 +1,8 @@
+[v12 Phone edition]
+- penambahan fitur device info
+- new ikon style
+- Optimalisasi
+
 [v11 Phone Edition]
 - Penambahan Fitur pemilihan via Volume
 - New ikon style :
