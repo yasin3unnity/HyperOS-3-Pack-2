@@ -1,3 +1,7 @@
+[v13 Phone edition]
+- optimalisasi ikom
+- new ikon style
+
 [v12 Phone edition]
 - penambahan fitur device info
 - new ikon style
