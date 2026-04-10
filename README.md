@@ -5,7 +5,7 @@
 # 🚀 HyperOS 3 Pack ⟨Phone Version⟩ - Magisk Module
 
 ![Magisk](https://img.shields.io/badge/Magisk-Module-orange?style=for-the-badge&logo=android)
-![Version](https://img.shields.io/badge/Version-v12-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-v13-blue?style=for-the-badge)
 
 Ubah tampilan HyperOS 2 kamu menjadi gaya **HyperOS 3** yang lebih modern dan fresh! Modul ini dirancang khusus untuk memberikan pengalaman visual terbaru pada perangkat Xiaomi Anda.
 
@@ -29,9 +29,7 @@ Ubah tampilan HyperOS 2 kamu menjadi gaya **HyperOS 3** yang lebih modern dan fr
 5. Reboot perangkat Anda.
 
 ## 📜 Daftar Perubahan (Changelog)
-### v12
-- Penambahan fitur device info
-- new ui in file manager
+### v13
 - New ikon style
 - Optimalisasi ikon
 
